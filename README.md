@@ -1,13 +1,13 @@
-#Examen
+# Examen
 
-##Preguntas nivel *pollito*
+## Preguntas nivel *pollito*
 
 - Listar todos los alumnos de **primero B** que **aprobaron** el curso de **Inglés**
 - Listar **todos los alumnos** del **profesor Juan Pérez**
 - Mostrar la **cantidad** de **alumnos aprobados** en el curso de **Matemática** 
 - Mostrar cuantos alumnos **aprobaron** por **grado** el curso de **Inglés** 
 
-##Preguntas nivel *unas chelas*
+## Preguntas nivel *unas chelas*
 
 - Mostrar la cantidad de alumnos que **aprobaron** y **desaprobaron** el curso de **Historia** en **tercero A**<br>
 
@@ -33,7 +33,7 @@
 	| --------- | --------- | --------- | --------- | --------- |
 	| X 		| Y  | Z  | A  | B  |
 
-##Preguntas nivel *XD*
+## Preguntas nivel *XD*
 
 -  Mostrar el(los) **grado(s)** y **sección(es)** que están **por encima del promedio** de **alumnos aprobados**
 
@@ -47,7 +47,7 @@
 	| --------- | --------- | --------- |
 	| X 		| Y  | Z  |
 
-##Opcional
+## Opcional
 -  Mostrar las **notas de cada alumno** y su **promedio final**, **ordenados** por **grado**, **sección** y **apellido ascendentemente** 
 
 	| Grado | A | Sección | B |
