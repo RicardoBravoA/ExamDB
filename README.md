@@ -62,3 +62,5 @@
 	
 	| Promedio | Z |
 	| --------- | --------- |
+
+- Remodelar la base de datos y migrar la data al nuevo modelo
